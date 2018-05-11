@@ -4,9 +4,9 @@ using System.Collections.ObjectModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using INF2011S_Workshop8_WaS7_PIISOL.DatabaseLayer;
+using Workshop8_WaS7.DatabaseLayer;
 
-namespace INF2011S_Workshop8_WaS7_PIISOL.Employees
+namespace Workshop8_WaS7.Employees
 {
     public class EmployeeController
     {
