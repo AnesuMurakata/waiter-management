@@ -7,9 +7,9 @@ using System.Data;
 using System.Data.SqlClient;
 using System.Xml;
 //namespaces
-using INF2011S_Workshop8_WaS7_PIISOL.Employees;
+using Workshop8_WaS7.Employees;
 
-namespace INF2011S_Workshop8_WaS7_PIISOL.DatabaseLayer
+namespace Workshop8_WaS7.DatabaseLayer
 {
     public class EmployeeDB : DB
     {
