@@ -10,7 +10,7 @@
 
 #pragma warning disable 1591
 
-namespace INF2011S_Workshop8_WaS7_PIISOL {
+namespace Workshop8_WaS7 {
     
     
     /// <summary>
