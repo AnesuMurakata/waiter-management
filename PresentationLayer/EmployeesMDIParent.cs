@@ -7,9 +7,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using INF2011S_Workshop8_WaS7_PIISOL.Employees;
+using Workshop8_WaS7.Employees;
 
-namespace INF2011S_Workshop8_WaS7_PIISOL.PresentationLayer
+namespace Workshop8_WaS7.PresentationLayer
 {
     public partial class EmployeesMDIParent : Form
     {
