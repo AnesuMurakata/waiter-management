@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace INF2011S_Workshop8_WaS7_PIISOL.Properties
+namespace Workshop8_WaS7.Properties
 {
 
 
