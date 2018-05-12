@@ -1,4 +1,4 @@
-﻿namespace INF2011S_Workshop8_WaS7_PIISOL.PresentationLayer
+﻿namespace Workshop8_WaS7.PresentationLayer
 {
     partial class EmployeesMDIParent
     {
