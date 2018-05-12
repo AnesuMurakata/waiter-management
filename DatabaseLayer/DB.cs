@@ -8,12 +8,12 @@ using System.Data;
 using System.Data.SqlClient;
 using System.Xml;
 using System.Windows.Forms;
-using INF2011S_Workshop8_WaS7_PIISOL.Properties;
+using Workshop8_WaS7.Properties;
 
  // ***needs to be added to be able to use the Settings property
 
 
-namespace INF2011S_Workshop8_WaS7_PIISOL.DatabaseLayer
+namespace Workshop8_WaS7.DatabaseLayer
 {
     //Add public as access specifier to every class definition
     public class DB

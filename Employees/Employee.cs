@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace INF2011S_Workshop8_WaS7_PIISOL.Employees
+namespace Workshop8_WaS7.Employees
 {
     public class Employee: Person
     {

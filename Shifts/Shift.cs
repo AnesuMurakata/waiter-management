@@ -5,9 +5,9 @@ using System.Collections.ObjectModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using INF2011S_Workshop8_WaS7_PIISOL.Employees;
+using Workshop8_WaS7.Employees;
 
-namespace INF2011S_Workshop8_WaS7_PIISOL.Shifts
+namespace Workshop8_WaS7.Shifts
 {
     public class Shift
     {

@@ -8,10 +8,10 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 //Including the correct namespaces
-using INF2011S_Workshop8_WaS7_PIISOL.Employees;
+using Workshop8_WaS7.Employees;
 
 
-namespace INF2011S_Workshop8_WaS7_PIISOL.PresentationLayer
+namespace Workshop8_WaS7.PresentationLayer
 {
     public partial class EmployeeForm : Form
     {

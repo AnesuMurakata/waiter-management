@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Drawing;
 
-namespace INF2011S_Workshop8_WaS7_PIISOL.Shifts
+namespace Workshop8_WaS7.Shifts
 {
     public class BlockArray : System.Collections.CollectionBase
     {

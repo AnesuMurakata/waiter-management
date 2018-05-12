@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using INF2011S_Workshop8_WaS7_PIISOL.PresentationLayer;
+using Workshop8_WaS7.PresentationLayer;
 
-namespace INF2011S_Workshop8_WaS7_PIISOL
+namespace Workshop8_WaS7
 {
     static class Program
     {
